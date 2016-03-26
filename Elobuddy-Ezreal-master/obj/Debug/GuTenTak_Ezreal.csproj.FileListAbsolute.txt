@@ -1,0 +1,13 @@
+E:\Users\smart\Desktop\ez\Elobuddy - Ezreal\bin\Release\GuTenTak_Ezreal.exe.config
+E:\Users\smart\Desktop\ez\Elobuddy - Ezreal\bin\Release\GuTenTak_Ezreal.exe
+E:\Users\smart\Desktop\ez\Elobuddy - Ezreal\bin\Release\GuTenTak_Ezreal.pdb
+E:\Users\smart\Desktop\ez\Elobuddy - Ezreal\bin\Release\EloBuddy.dll
+E:\Users\smart\Desktop\ez\Elobuddy - Ezreal\bin\Release\EloBuddy.SDK.dll
+E:\Users\smart\Desktop\ez\Elobuddy - Ezreal\bin\Release\SharpDX.Direct3D9.dll
+E:\Users\smart\Desktop\ez\Elobuddy - Ezreal\bin\Release\SharpDX.dll
+E:\Users\smart\Desktop\ez\Elobuddy - Ezreal\bin\Release\Newtonsoft.Json.dll
+E:\Users\smart\Desktop\ez\Elobuddy - Ezreal\obj\Debug\GuTenTak_Ezreal.Properties.Resources.resources
+E:\Users\smart\Desktop\ez\Elobuddy - Ezreal\obj\Debug\GuTenTak_Ezreal.csproj.GenerateResource.Cache
+E:\Users\smart\Desktop\ez\Elobuddy - Ezreal\obj\Debug\GuTenTak_Ezreal.exe
+E:\Users\smart\Desktop\ez\Elobuddy - Ezreal\obj\Debug\GuTenTak_Ezreal.pdb
+E:\Users\smart\Desktop\ez\Elobuddy - Ezreal\obj\Debug\GuTenTak_Ezreal.csprojResolveAssemblyReference.cache
